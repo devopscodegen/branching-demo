@@ -6,4 +6,5 @@
 |1.0|feature2|1|
 |1.0|bug1|1|
 |2.0|feature1|1|
+|2.0|bug1|1|
 |3.0|feature1|1|
